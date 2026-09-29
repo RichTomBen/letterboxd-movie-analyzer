@@ -1,0 +1,32 @@
+# Personal Letterboxd data
+watched.csv
+watched_with_runtimes.csv
+
+# TMDB cache
+runtime_cache.json
+
+# Generated graphs
+movies_per_year.png
+hours_per_year.png
+runtime_distribution.png
+
+# Secrets / environment files
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
